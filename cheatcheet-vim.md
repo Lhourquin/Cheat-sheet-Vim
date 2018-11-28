@@ -26,4 +26,4 @@ Cheatcheet VIM.
 |`r`|remplace le charactere|
 |`R`|remplace le charactere jusqu'a ce qu'on echap|
 |`ctrl-v`|mode visuel permet de surligner les charactere|
-
+|`cw`|change le mot|
