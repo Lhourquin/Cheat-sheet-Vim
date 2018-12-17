@@ -1,0 +1,49 @@
+*{
+  font-size:16px;
+  margin:auto;
+}
+
+body{
+    background-color:grey;
+}
+
+
+h1{
+  font-size:1.9rem;
+  text-align:center;
+  margin-bottom:20px;
+}
+
+nav{
+  font-size:1.3rem;
+  text-align:center;
+  margin-bottom:100px;
+}
+
+h2{
+  font-size:1.6rem;
+  margin-left:322px;
+  margin-bottom:20px;
+  margin-top:20px;
+}
+
+.h2{
+    margin-top:100px;
+}
+
+table{
+  background-color:white;
+  border-collapse:collapse;
+  width:50%;
+  border:1.6px solid black;
+}
+
+th,td{
+  border:solid 1.6px black;
+}
+
+footer{
+  margin-top:50px;
+  text-align:center;
+  margin-bottom:20px;
+}
