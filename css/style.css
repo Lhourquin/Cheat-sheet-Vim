@@ -3,9 +3,7 @@
   margin:auto;
 }
 
-@media (max-width: 640px) {
-/* CSS mobile ici */
-}
+
 
 body{
     background-color:grey;
